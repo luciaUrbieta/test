@@ -1,2 +1,6 @@
 hola agustina
+<<<<<<< HEAD
 hola luciavvvvvvvvvvvvvvv
+=======
+cambio en main
+>>>>>>> 32e0a5c409e69aec6af8359f3ebab9d75b6646b8
